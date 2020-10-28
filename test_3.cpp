@@ -1,9 +1,10 @@
 #include <stdio.h>
 int main()
 {
+	
 	for (int i = 10; i > 1; i /= 2)
 	{
-		printf("%d ", ++i); // i++ 是 一个运算结果 是i的值，而++i 的值是 i+1 
+		printf("%d ", ++i); // i++ 锟斤拷 一锟斤拷锟斤拷锟斤拷锟斤拷 锟斤拷i锟斤拷值锟斤拷锟斤拷++i 锟斤拷值锟斤拷 i+1 
 	}
 	return 0;
 }
